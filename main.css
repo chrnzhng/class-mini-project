@@ -1,0 +1,72 @@
+main {
+    position: relative;
+}
+
+aside ul {
+    color: white;
+    padding: 10px 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+aside ul li {
+    display: flex;
+    padding: 10px 10px;
+}
+
+svg {
+    color: white;
+}
+
+header {
+    background-color: silver;
+}
+
+#topright-icon {
+    padding-left: 53vw;
+}
+
+nav ul {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav ul li {
+    padding: 5px;
+    color: white;
+}
+
+.bottom-nav {
+    display: flex;
+    padding: 5px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 56px;
+    padding-left: 19px;
+}
+
+#NAME {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 35px;
+    margin-top: 40px;
+}
+
+.product-wrapper {
+    position: relative;
+}
+
+.cards {
+    height: 115px;
+    width: 115px;
+    background-color: lightblue;
+    border-radius: 10px;
+    display: inline-flex;
+    padding: 10px 10px;
+    margin: 20px 10px;
+}
+
+.left-rail {
+    width: 200px;
+    height: 100vh;
+    background-color: slategray;
+    float: left;
+}
